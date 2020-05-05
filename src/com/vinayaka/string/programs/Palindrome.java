@@ -19,7 +19,7 @@ public class Palindrome {
 				break;
 			}
 		}
-		if(flag)
+		if(flag) 
 			System.out.println("Given string is Palindrome");
 		else
 			System.out.println("It is not a Palindrome");
